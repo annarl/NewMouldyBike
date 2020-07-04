@@ -2990,16 +2990,16 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #2B7A78;
-			color: #FDBCB5;
+			background-color: #FDBCB5;
+			color: #2B7A78;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #FDBCB5;
+				color: #2B7A78;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #FDBCB5;
+				color: #2B7A78;
 			}
 
 			.wrapper.style3 hr {
@@ -3158,7 +3158,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #FDBCB5;
+				color: #2B7A78;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
