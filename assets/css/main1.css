@@ -243,12 +243,12 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #fff;
-		margin: 3em 0;
+		border-bottom: solid 1px #e2e2e2;
+		margin: 1em 0;
 	}
 
 		hr.major {
-			margin: 4.5em 0;
+			margin: 2em 0;
 		}
 
 	blockquote {
